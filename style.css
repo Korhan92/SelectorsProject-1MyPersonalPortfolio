@@ -1,0 +1,31 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:url(./hypnotize_bg.png)
+}
+.header img{
+display: block;
+width: 100%;
+
+}
+.header {
+    background-color: royalblue;
+    text-align: center;
+}
+
+body{
+    font-family: 'Yeon Sung', cursive;
+}
+h1{
+    font-family: 'Redressed', cursive;
+    font-size: larger;
+    color: azure;
+}
+.about-me {
+    font-size: 20px;
+    opacity: 70%;
+}
+.title {font-weight: bold;}
+.container {
+    width: 800px;
+    margin: auto;
+}
